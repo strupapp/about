@@ -1,6 +1,6 @@
 # Students can learn more by connecting with Strup
 
-<img src="images/strup-screenshot-1.png" width="375" style="align:right; padding-left: 30px;" />
+<img src="images/strup-screenshot-1.png" width="375" align="right" style="padding-left: 30px;" />
 
 ### Strup empowers students to connect and form study groups outside of class.
 
